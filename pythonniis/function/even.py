@@ -1,8 +1,9 @@
-def even():
+def check():
 	print("enter a no")
 	no=int(input())
 	if no%2==0:
 		print("even")
 	else:
 		print("odd")	
-even()	
+check()	  
+check()

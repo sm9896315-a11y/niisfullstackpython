@@ -1,4 +1,4 @@
-def si():
+def sical():
 	print("enter principal balance")
 	p=float(input())
 	print("enter intrest rate")
